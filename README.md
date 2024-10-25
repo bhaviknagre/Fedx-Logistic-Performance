@@ -48,6 +48,7 @@ This project provides a comprehensive analysis of logistics performance at FedEx
 https://app.powerbi.com/groups/me/reports/d8e3ee3b-7e97-4efc-80e7-ec48b0196414/ea83e56f707630605bd1?experience=power-bi
 
 # Dashboard Visuals
+![Analysis Report](fedx.png)
 
 # Results and Recommendations
 - Delivery Improvements: Focus on late delivery trends to improve on-time performance.
@@ -55,7 +56,7 @@ https://app.powerbi.com/groups/me/reports/d8e3ee3b-7e97-4efc-80e7-ec48b0196414/e
 - Cost Reduction: Optimize shipment mode selection to reduce freight costs.
 - Regional Focus: Address underperforming regions by analyzing specific country-level challenges.
 
-#Conclusion
+# Conclusion
 
 This analysis of FedEx logistics performance provides essential insights into on-time delivery trends, vendor efficiency, and regional performance. The PowerBI dashboard allows for easy exploration of these findings, helping FedEx make data-driven decisions to improve logistics operations, cost efficiency, and delivery reliability.
 
